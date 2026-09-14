@@ -6,12 +6,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
   /* ---------------- CONFIG (edit these for your own wedding) ---------------- */
   const EVENT = {
-    title: 'Wedding of Victor & Diana',
+    title: 'Wedding of Dheeraj & Vidya',
     dateStart: '20261113T100500',
     dateEnd:   '20261113T130500',
-    venueName: 'Grand Rose Garden Hall',
-    venueAddress: '45 Blossom Avenue',
-    mapsQuery: 'Grand Rose Garden Hall, 45 Blossom Avenue',
+    venueName: 'Sanman Regency',
+    venueAddress: 'Lamina cross Nitte',
+    mapsQuery: 'Sanman Regency, Lamina Cross Nitte',
   };
 
   /* ================= ENVELOPE INTRO ================= */
